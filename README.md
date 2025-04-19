@@ -5,7 +5,7 @@ ML project using XGBoost in R to identify SNPs associated with plant height in s
 # 🌾 Sorghum SNP-Based Plant Height Prediction with XGBoost (R)
 
 ## 👥 Team Members
-- Brian Kipkosgey (@Brianranny)
+- Brian Kipkosgey
 - Maureen Natukunda
 - Harshita Khot
 
