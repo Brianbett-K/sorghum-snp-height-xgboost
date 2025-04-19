@@ -1,8 +1,7 @@
-# sorghum-snp-height-xgboost
+# 🌾 Sorghum SNP-Based Plant Height Prediction with XGBoost (R)
 ML project using XGBoost in R to identify SNPs associated with plant height in sorghum.
 
 
-# 🌾 Sorghum SNP-Based Plant Height Prediction with XGBoost (R)
 
 ## 👥 Team Members
 - Brian Kipkosgey
