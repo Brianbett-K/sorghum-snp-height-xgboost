@@ -1,23 +1,11 @@
-# List of required packages
-packages <- c(
+install.packages(c(
   "xgboost",
+  "Matrix",
   "data.table",
   "dplyr",
   "ggplot2",
-  "Matrix",
-  "caret",
-  "SHAPforxgboost",
-  "readr",
-  "stringr",
-  "magrittr",
-  "tidyr"
-)
+  "SHAPforxgboost"
+))
 
-# Install any packages not yet installed
-install_if_missing <- function(pkg) {
-  if (!require(pkg, character.only = TRUE)) {
-    install.packages(pkg)
-  }
-}
 
-invisible(lapply(packages, install_if_missing))
+
