@@ -24,3 +24,16 @@ The dataset comes from Yu et al. (2016), which includes 962 sorghum accessions w
 7. Reporting
 
 ## 📁 Repository Structure
+
+
+
+## 📦 Required Packages
+Install all required R packages by running:
+##```r
+source("install_packages.R")
+
+
+📚 Reference
+
+Yu, X., et al. (2016). Genomic prediction contributing to a promising global strategy to turbocharge gene banks. Nature Plants. https://doi.org/10.1038/nplants.2016.150
+
